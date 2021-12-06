@@ -5,7 +5,9 @@
 This analysis examines a breakdown to promote a business proposal for a bike-sharing program. The data used will show the following: 
 
 •	The length of time that bikes are checked out for all riders and genders
+
 •	The number of bike trips for all riders and genders for each hour of each day of the week
+
 •	The number of bike trips for each type of user and gender for each day of the week.
 
 ## Results 
