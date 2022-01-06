@@ -14,7 +14,7 @@ This analysis examines a breakdown to promote a business proposal for a bike-sha
 
 The results for this analysis show a few trends that are useful for shareholders to know about this business. (For Gender Demographics; 0 = Unknown, 1 = Male, 2 = Female) 
 
-•	Users who subscriber are more active than customers. 
+•	Users who subscribe are more active than customers. 
 
 •	Morning and evenings have the highest activity. 
 
